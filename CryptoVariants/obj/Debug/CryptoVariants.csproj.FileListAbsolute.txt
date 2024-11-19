@@ -1,0 +1,17 @@
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\bin\Debug\CryptoVariants.exe.config
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\bin\Debug\CryptoVariants.exe
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\bin\Debug\CryptoVariants.pdb
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\App.g.cs
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants_MarkupCompile.cache
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants_MarkupCompile.lref
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\MainWindow.baml
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.g.resources
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.Properties.Resources.resources
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.exe
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\CryptoVariants.pdb
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\LoginWindow.g.cs
+C:\Users\Илья\source\repos\CryptoVariants\CryptoVariants\obj\Debug\LoginWindow.baml
