@@ -17,6 +17,7 @@
             <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
                 <Label FontSize="16" FontWeight="DemiBold" Foreground="#fff" Content="Введите текст:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
                 <TextBox BorderBrush="#161a1d" FontSize="18" FontWeight="DemiBold" TextAlignment="Center" Background="#161a1d" Foreground="#fff" x:Name="InputTextBox" VerticalAlignment="Center" Width="360" Height="30"/>
+                <Button Margin="0 5" Background="#000" Foreground="#fff" Click="ReadFile_Click">Прочитать текст из файла</Button>
             </StackPanel>
         </Border>
         <Border Margin="10" Grid.Row="1" Background="#003049" CornerRadius="12">
@@ -25,7 +26,7 @@
                 <ComboBox Background="#000" x:Name="EncryptionMethodComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="400">
                     <ComboBoxItem Content="Шифр Цезаря"/>
                     <ComboBoxItem Content="Шифр простой замены"/>
-                    <ComboBoxItem Content="Шифр Виженера"/>
+                    <ComboBoxItem Content="Шифр Атбаш"/>
                     <ComboBoxItem Content="RSA"/>
                 </ComboBox>
             </StackPanel>
@@ -36,6 +37,7 @@
 
                 <Label Foreground="#fff" FontSize="15" FontWeight="DemiBold" Content="Результат:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
                 <TextBox Background="Transparent" Foreground="#fff" FontSize="20" FontWeight="DemiBold" TextAlignment="Center" BorderBrush="Transparent" x:Name="OutputTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" Height="40" IsReadOnly="True"/>
+                <Button x:Name="DecryptButton" Click="DecryptButton_Click" Content="Дешифровать" Background="Gray" HorizontalAlignment="Right" VerticalAlignment="Bottom" Foreground="#fff" Padding="10"/>
             </StackPanel>
         </Border>
     </Grid>
